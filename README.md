@@ -1,4 +1,3 @@
-# VHDL-examples
 VHDL sample code collection.
 Test with FPGA evaluation board.
 
